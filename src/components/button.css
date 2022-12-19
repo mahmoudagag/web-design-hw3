@@ -1,0 +1,41 @@
+
+.button{
+    background: #dadce0;
+    color: #202124;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 40px;
+    margin: 5px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+.numberButton{
+    background: #f1f3f4;
+    color: #202124;
+    border: 1px solid #f1f3f4;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 40px;
+    margin: 5px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+.equalButton{
+    background: #4285f4;
+    color: white;
+    border: 1px solid #4285f4;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 40px;
+    margin: 5px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.col:hover{
+    cursor: pointer;
+}
